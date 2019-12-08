@@ -1,0 +1,102 @@
+#header1 {
+	background-color:green;
+		height: 200px;
+	
+	
+}
+#logo {
+			height: 195px;
+			width: 195px;
+			
+			float:left;
+			margin: 7px 7px 7px 0;			
+	
+	
+}
+#name {
+		font-size: 75px;
+			
+}
+#name1 {
+		font-size: 50px;
+	
+	
+}
+#photo1 {
+			height: 200px;
+			width: 200px;
+			margin-left: 50px;
+			float:left;
+			margin: 7px 7px 7px 0;
+			
+	
+	
+}
+h1 {
+   font-size:  25px;
+   font-weight: 900;  
+text-align: center;   
+	
+}
+#flag {
+   height: 50px;
+   width: 100%; 	
+   	
+	
+}
+#about {
+   font-size: 14px;	
+   		text-align: center;
+		
+}
+#photo2{
+			height: 200px;
+			width: 243px;
+			margin-left: 50px;
+			float:right;
+			margin: 7px 7px 7px 0;
+			
+}
+#bestplayer {
+	background-color:green;
+	
+	
+}
+.phpl {
+	white: 250px;
+	height: 300px;
+    margin: 20px 20px 0px 0;
+
+}
+.table1 {
+	margin: auto;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+#tablelastmath {
+	text-align: center;
+	
+}
+
+table {
+	margin: auto;
+
+	
+	
+	
+}
+a {
+	font-size: 20px;
+	color: white;
+	
+	
+}
+
+footer {
+	background-color:green;
+	text-align: center;
+	margin-top: 20px;
+	
+}
